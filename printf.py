@@ -7,6 +7,12 @@ def printf2():
 def printfhot():
     print("热")
 
+def printfcold():
+    print("冷")
+
 printf1()
 printf2()
+
+printfcold()
 printfhot()
+
